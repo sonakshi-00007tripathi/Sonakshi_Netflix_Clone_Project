@@ -1,5 +1,5 @@
-// export const API_END_POINT = "http://localhost:8080/api/v1/user"; 
-export const API_END_POINT = "https://alok-netflix-clone.onrender.com";
+
+export const API_END_POINT = "https://sonakshi-netflix-clone-project.onrender.com"
 
 export const options = {
     method: 'GET',
